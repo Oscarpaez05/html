@@ -1,0 +1,67 @@
+h3 {
+    font-family: fantasy;
+    color: grey;
+}
+#ch1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch6 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+ch7 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch8 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: grey;
+}
+#ch9 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: grey;
+    
+}
+#container {
+    width: 2000px;
+    height: 900px;
+    background-color: rgba(0, 0, 0, 0.26);
+    margin-left: auto;
+    margin-right: auto;
+}
+.imag1 {
+    width: 50px;
+    height: 50px;
+    left: 849px;
+} 

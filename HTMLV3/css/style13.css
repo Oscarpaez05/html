@@ -1,0 +1,17 @@
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(243, 247, 4); 
+}
+#parr1 {
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(201, 236, 6);
+}
+
+#container {
+    width: 900px;
+    height: 500px;
+    background-color: rgb(255, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    }

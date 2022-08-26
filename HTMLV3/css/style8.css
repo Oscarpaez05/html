@@ -1,0 +1,46 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(236, 134, 9);
+}
+#ch1 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch2 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch3 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch4 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch5 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch6 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(236, 134, 9);
+}
+#ch11 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: rgb(32, 10, 236);
+}
+#container {
+    width: 47px;
+    height: 950px;
+    background-color: rgb(146, 25, 25);
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,16 @@
+h2 {
+       font-family: fantasy;
+       color: darkorange; 
+}
+#ch1 {
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 40px;
+       color: black;
+}
+#container {
+    width: 550px;
+    height: 200px;
+    background-color: rgba(0, 174, 255, 0.658);
+    margin-left: auto;
+    margin-right: auto;
+}

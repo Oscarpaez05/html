@@ -1,0 +1,47 @@
+#ch1 {
+    font-family: fantasy;
+    color: rgb(146, 46, 0);
+}
+#ch2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 60, 0);
+}
+#ch3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 71, 5);
+}
+#ch4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 71, 5);
+
+}
+#ch5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 71, 5);
+}
+#ch6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 71, 5);
+}
+#ch7 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(212, 71, 5);
+}
+#ch8 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(146, 46, 0);
+}
+#container {
+    width: 800px;
+    height: 1300px;
+    background-color: rgb(0, 255, 21);
+    margin-left: auto;
+    margin-right: auto;
+}

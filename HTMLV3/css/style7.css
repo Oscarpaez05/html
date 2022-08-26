@@ -1,0 +1,38 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+#ch1 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: darkblue;
+
+}
+#ch2 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: darkblue;
+
+}
+#ch3 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: darkblue
+}
+#ch4 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: darkblue
+}
+#ch5 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: darkblue
+}
+#container {
+    width: 900px;
+    height: 350px;
+    background-color: rgb(190, 157, 11);
+    margin-left: auto;
+    margin-right: auto;
+}

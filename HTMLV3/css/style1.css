@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.144);
+}
+#ch1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+#ch2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+#container {
+    width: 900px;
+    height: 600px;
+    background-color: rgb(10, 132, 148);
+    margin: auto;
+}

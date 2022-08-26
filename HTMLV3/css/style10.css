@@ -1,0 +1,111 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(0, 255, 55);
+}
+#ch1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(255, 0, 0)
+}
+#ch2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(255, 0, 0)
+}
+#ch3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch7 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch8 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch9 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch10 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch11 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch12 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch13 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 0, 0)
+}
+#ch14 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch15 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch16 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch17 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch18 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#ch19 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+#ch20 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 255, 55);
+}
+#container {
+    width: 950px;
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}

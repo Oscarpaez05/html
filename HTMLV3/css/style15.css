@@ -1,0 +1,51 @@
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: deeppink;
+}
+#ch1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;;
+}
+#ch5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch7 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#ch8 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: deeppink;
+}
+#container {
+    width: 500px;
+    height: 513px;
+    background-color: rgba(0, 255, 64, 0.836);
+    margin-left: auto;
+    margin-right: auto
+}
