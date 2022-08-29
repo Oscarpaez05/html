@@ -20,3 +20,7 @@
     Y se comprobo que no tuviera errores con la pagina W3C
 
 HTMLv3:
+Se creo una carpeta CSS para asi cambiar el diseño de cada una de las respectivas paginas
+Se creo una carpeta img
+Se crearon otros id para algunas etiquetas de los arvhivos para asi completar el diseño de la paginas
+Y se comprobaron los codigos con W3C
